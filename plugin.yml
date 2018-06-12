@@ -1,0 +1,10 @@
+name: cleaninventory
+main: cleaninventory\Main
+author: OmgBossinator
+version: 1.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+
+commands:
+ clean:
+  description: "Clean all your inventory"
+  permission: clearinventory.main.command
